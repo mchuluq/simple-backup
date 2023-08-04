@@ -1,0 +1,15 @@
+{
+    "name": "mchuluq/simple-backup",
+    "description": "simple script auto database backup",
+    "type": "project",
+    "require": {
+        "coderatio/simple-backup": "^1.0",
+        "masbug/flysystem-google-drive-ext": "^2.2"
+    },
+    "authors": [
+        {
+            "name": "mochammad chusnul chuluq",
+            "email": "mchuluq@gmail.com"
+        }
+    ]
+}
